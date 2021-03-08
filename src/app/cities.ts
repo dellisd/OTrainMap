@@ -15,13 +15,13 @@ export const cities = {
     ],
   },
   // TODO: Enable Toronto data
-  // toronto: {
-  //   location: [-79.3848, 43.65354],
-  //   data: [
-  //     "toronto/line1.json",
-  //     "toronto/line2.json",
-  //     "toronto/line3.json",
-  //     "toronto/line4.json"
-  //   ]
-  // }
+  toronto: {
+    location: [-79.3848, 43.65354],
+    data: [
+      "toronto/line1.json",
+      "toronto/line2.json",
+      "toronto/line3.json",
+      "toronto/line4.json"
+    ]
+  }
 };
