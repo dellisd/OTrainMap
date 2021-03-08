@@ -53,6 +53,11 @@ const labelExpression = [
     ""
   ],
   {},
+  ["case", 
+    ["in", 5, ["get", "lines"]], ["image", "line5icon"],
+    ""
+  ],
+  {},
 ]
 
 export const Line = React.memo(

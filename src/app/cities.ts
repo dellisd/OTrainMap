@@ -12,6 +12,7 @@ export const cities = {
       //"stage2south.json",
       "line4.json",
       "line2.json",
+      "line5.json",
       //"stage2west.json",
       "stage3barrhaven.json",
       "stage3kanata.json",
